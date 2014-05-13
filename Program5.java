@@ -32,7 +32,7 @@ public class Program5
                                             
                             if(!dict.contains(word))
                                dict.add(word);
-                                }//inner loop
+                        }//inner loop
                         
                          dline = brDict.readLine();
                              
